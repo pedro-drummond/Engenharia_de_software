@@ -1,0 +1,7 @@
+<map id="FlowHandle" name="FlowHandle">
+<area shape="rect" id="node1" title=" " alt="" coords="48,80,147,107"/>
+<area shape="rect" id="node4" href="$classExp.html" title="This class represents a flow in the system." alt="" coords="33,155,79,181"/>
+<area shape="rect" id="node5" href="$classLogistic.html" title="This class represents a flow in the system." alt="" coords="104,155,176,181"/>
+<area shape="rect" id="node2" href="$classFlow.html" title=" " alt="" coords="5,5,59,32"/>
+<area shape="rect" id="node3" href="$classHandle.html" title=" " alt="" coords="83,5,245,32"/>
+</map>

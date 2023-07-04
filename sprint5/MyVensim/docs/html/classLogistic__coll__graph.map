@@ -1,0 +1,6 @@
+<map id="Logistic" name="Logistic">
+<area shape="rect" id="node1" title="This class represents a flow in the system." alt="" coords="39,185,111,212"/>
+<area shape="rect" id="node2" href="$classBaseFlow.html" title="The BaseFlow class represents a flow between two systems." alt="" coords="32,109,117,136"/>
+<area shape="rect" id="node3" href="$classFlow.html" title=" " alt="" coords="5,5,59,32"/>
+<area shape="rect" id="node4" href="$classSystem.html" title=" " alt="" coords="83,5,154,32"/>
+</map>

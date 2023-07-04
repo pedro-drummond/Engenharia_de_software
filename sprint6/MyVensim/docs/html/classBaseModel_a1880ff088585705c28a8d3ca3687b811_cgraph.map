@@ -1,0 +1,6 @@
+<map id="BaseModel::BaseModel" name="BaseModel::BaseModel">
+<area shape="rect" id="node1" title="This is the copy constructor." alt="" coords="5,56,180,83"/>
+<area shape="rect" id="node2" href="$classBaseModel.html#a53e67160bf28b02a45425d3ca7ad1fde" title="This function gets the name of the model." alt="" coords="228,5,391,32"/>
+<area shape="rect" id="node3" href="$classBaseModel.html#a701894357726588d1ba4eda6662a9b07" title="This function gets the step of the model." alt="" coords="233,56,385,83"/>
+<area shape="rect" id="node4" href="$classBaseModel.html#aefc69988b1357f1de5c13f2119e12871" title="This function gets the time of the model." alt="" coords="231,107,387,133"/>
+</map>

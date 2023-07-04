@@ -1,0 +1,5 @@
+<map id="Flow::Flow" name="Flow::Flow">
+<area shape="rect" id="node1" title="This function copies the value and name of a system." alt="" coords="5,31,96,57"/>
+<area shape="rect" id="node2" href="$classFlow.html#a1f3858f90d141807377c2640fb5dd0fc" title="This function returns the origin and destination of the flow." alt="" coords="144,5,269,32"/>
+<area shape="rect" id="node3" href="$classFlow.html#aff8a0f8ca8dc50d37c92ab7556e172b5" title="This function returns the origin and destination of the flow." alt="" coords="146,56,267,83"/>
+</map>

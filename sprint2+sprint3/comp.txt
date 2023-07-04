@@ -1,0 +1,3 @@
+//funçao teste funcional
+g++ test/main.cpp src/flow.cpp src/model.cpp src/system.cpp -o tests
+

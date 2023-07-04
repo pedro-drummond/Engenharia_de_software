@@ -1,0 +1,5 @@
+<map id="unit_flow_setTarget" name="unit_flow_setTarget">
+<area shape="rect" id="node1" title=" " alt="" coords="5,31,153,57"/>
+<area shape="rect" id="node2" href="$classFlow.html#a81aeceffcb2b425af124c3b0d1962786" title="This function gets the name of the flow." alt="" coords="201,5,323,32"/>
+<area shape="rect" id="node3" href="$classFlow.html#acae9e792b12344d144e0346e0ee9548b" title="This function sets the name of the flow." alt="" coords="202,56,322,83"/>
+</map>

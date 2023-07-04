@@ -1,0 +1,13 @@
+lib:
+	g++ -c -fPIC src/lib/flow_implementation.cpp -o src/lib/flow_implementation.o
+	g++ -c -fPIC src/lib/model_implementation.cpp -o src/lib/model_implementation.o
+	g++ -c -fPIC src/lib/system_implementation.cpp -o src/lib/system_implementation.o
+	g++ -shared -o bin/libmyvensim.so src/lib/flow_implementation.o src/lib/model_implementation.o src/lib/system_implementation.o
+
+func:
+	g++ test/functional/main.cpp test/functional/functional_tests.cpp -o bin/func_test -Lbin -lmyvensim -Wl,-rpath=. -Wall
+
+unit:
+	g++ test/unit/main.cpp test/unit/unit_flow.cpp test/unit/unit_model.cpp test/unit/unit_system.cpp test/unit/unit_tests.cpp -o bin/unit_test -Lbin -lmyvensim -Wl,-rpath=.
+
+all: lib func unit

@@ -1,0 +1,9 @@
+
+//testes unitarios
+g++ test/unit/main.cpp test/unit/unit_flow.cpp test/unit/unit_system.cpp test/unit/unit_model.cpp test/unit/unit_tests.cpp src/flow_implementation.cpp src/model_implementation.cpp src/system_implementation.cpp -o bin/unit_test
+
+
+//testes funcionais
+
+g++ test/Functional/main.cpp src/flow_implementation.cpp src/model_implementation.cpp src/system_implementation.cpp -o bin/funcional_test
+

@@ -1,0 +1,4 @@
+<map id="Logistic::run" name="Logistic::run">
+<area shape="rect" id="node1" title="Use this function to run the flow." alt="" coords="5,5,107,32"/>
+<area shape="rect" id="node2" href="$classSystem.html#a41b673faa6c199eb8e4f204639fab4f2" title="This function gets the value of the system." alt="" coords="155,5,291,32"/>
+</map>

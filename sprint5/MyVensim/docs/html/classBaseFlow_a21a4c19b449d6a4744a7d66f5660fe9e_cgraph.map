@@ -1,0 +1,5 @@
+<map id="BaseFlow::BaseFlow" name="BaseFlow::BaseFlow">
+<area shape="rect" id="node1" title="This function copies the value and name of a system." alt="" coords="5,31,160,57"/>
+<area shape="rect" id="node2" href="$classBaseFlow.html#ac02ea90181fc55c4eb5395ac2e148328" title="This function returns the origin and destination of the flow." alt="" coords="208,5,365,32"/>
+<area shape="rect" id="node3" href="$classBaseFlow.html#a02ac18faf3ece22898171363e4bafff8" title="This function returns the origin and destination of the flow." alt="" coords="210,56,363,83"/>
+</map>

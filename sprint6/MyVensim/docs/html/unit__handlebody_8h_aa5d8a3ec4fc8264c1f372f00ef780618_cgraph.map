@@ -1,0 +1,11 @@
+<map id="test_handle_body" name="test_handle_body">
+<area shape="rect" id="node1" title=" " alt="" coords="5,157,143,184"/>
+<area shape="rect" id="node2" href="$classModel.html#a946e51cdd5d3e6a48353647618384726" title=" " alt="" coords="212,5,355,32"/>
+<area shape="rect" id="node3" href="$classModel.html#a3e267e8c78eebe47ecd274e2dbfff56f" title=" " alt="" coords="208,56,359,83"/>
+<area shape="rect" id="node5" href="$classModel.html#a7d2b21a02c1ce4362c5414f2a33fae24" title=" " alt="" coords="203,107,363,133"/>
+<area shape="rect" id="node6" href="$classSystemHandle.html#ae0e8c19df92e41d60f2156562fd2bd52" title="This function gets the name of the system." alt="" coords="191,157,376,184"/>
+<area shape="rect" id="node7" href="$classSystem.html#ab4f23c21832d6bbef462a5a20b296912" title="This function gets the name of the system." alt="" coords="214,208,353,235"/>
+<area shape="rect" id="node8" href="$classSystem.html#a41b673faa6c199eb8e4f204639fab4f2" title="This function gets the value of the system." alt="" coords="215,259,351,285"/>
+<area shape="rect" id="node9" href="$classModel.html#af300d70d39987c417a8b285e63ebaa91" title="This function runs the simulation of the model." alt="" coords="238,309,329,336"/>
+<area shape="rect" id="node4" href="$classBaseModel.html#a4ddb45d85039efab12a290c28fa7dc9a" title=" " alt="" coords="424,56,607,83"/>
+</map>
